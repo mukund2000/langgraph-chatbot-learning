@@ -1,0 +1,5 @@
+langchain_community==0.4.1
+langchain_core==1.2.14
+langchain_ollama==1.0.1
+langgraph==1.0.9
+langgraph-checkpoint-sqlite==3.0.3
